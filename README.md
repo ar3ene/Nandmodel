@@ -1,2 +1,2 @@
-# memory_controller_model
+# Nandmodel
 Simulation Model for Memory Controller
